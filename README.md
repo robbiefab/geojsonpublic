@@ -30,3 +30,6 @@ simplify to 10%? file size max 25mb. can do in UI
 
 -proj wgs84
 -o output.json
+
+upload export json to github
+paste raw git hub link into GeoJSON url section of Icon Map visual
